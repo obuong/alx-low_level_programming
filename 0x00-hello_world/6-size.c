@@ -6,7 +6,7 @@
  * this program prints "Programming is like building a multilingual puzzle
  * Retun: 0;
  */
-int main()
+int main void()
 {	char c;
 	int i;
 	long li;
@@ -20,4 +20,4 @@ int main()
 	printf("Size of a float: %ld byte(s)\n", sizeof(f));
 	return (0);
 }
-
+return (0);
