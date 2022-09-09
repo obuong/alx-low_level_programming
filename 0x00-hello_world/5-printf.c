@@ -2,9 +2,9 @@
 
 /**
 * main - print the string in the print dunction
-* 
 * Description: using the main function
-* the program prints "with proper grammar, but the outcome is a piece of art,* Return: 0
+* the program prints "C Popper Grammar
+* Return: 0
 */
 int main(void)
 {
