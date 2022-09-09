@@ -6,7 +6,7 @@
  * this program prints "Programming is like building a multilingual puzzle
  * Retun: 0;
  */
-int main void()
+int main (void)
 {	char c;
 	int i;
 	long li;
