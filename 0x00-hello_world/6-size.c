@@ -7,7 +7,7 @@
  * Retun: 0
  */
 int main(void)
-{ The code goes here
+{ 
 	char c;
 	int i;
 	long li;
