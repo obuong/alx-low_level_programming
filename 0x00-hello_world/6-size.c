@@ -4,11 +4,10 @@
  *
  * Description: using the main function
  * this program prints "Programming is like building a multilingual puzzle
- * Retun: 0
+ * Retun: 0;
  */
-int main(void)
-{ 
-	char c;
+int main()
+{	char c;
 	int i;
 	long li;
 	long long lli;
