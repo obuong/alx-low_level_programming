@@ -1,14 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - print the string in the put function
- *
- * Description: using the main function
- * this program prints "Programming is like building a multilingual puzzle
- * Retun: 0
+ * main - prints the size of many var types*
+ * 
+ * Retun: Always () (Success)
  */
 int main(void)
-{	char c;
+{	
+	char c;
 	int i;
 	long li;
 	long long lli;
