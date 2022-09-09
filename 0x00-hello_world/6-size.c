@@ -1,13 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - prints the size of many var types*
- * 
+ * main - prints the size of many var types
  * Retun: Always () (Success)
  */
 int main(void)
-{	
-	char c;
+{	char c;
 	int i;
 	long li;
 	long long lli;
