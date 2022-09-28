@@ -2,7 +2,7 @@
 int _sqrt(int num, int root);
 /**
  * _sqrt_recursion - returns the squareroot of n.
- * @: number whose squareroot is to be found.
+ * @n: number whose squareroot is to be found.
  * Return: squareroot.
  */
 int _sqrt_recursion(int n)
