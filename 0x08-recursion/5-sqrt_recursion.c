@@ -5,7 +5,7 @@ int _sqrt(int num, int root);
  * @: numbber whose squareroot is to be found.
  * Return: squareroot.
  */
-int _sqrt_recursion(int n);
+int _sqrt_recursion(int n)
 {
 	if (n < 0)
 	{
