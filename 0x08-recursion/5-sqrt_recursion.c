@@ -11,7 +11,7 @@ int _sqrt_recursion(int n)
 	{
 		return (1);
 	}
-	return (_sqrt9(n, 1));
+	return (_sqrt(n, 1));
 }
 /**
  * _sqrt - determines if root is the squareroot of num.
