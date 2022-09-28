@@ -2,14 +2,14 @@
 int _sqrt(int num, int root);
 /**
  * _sqrt_recursion - returns the squareroot of n.
- * @: numbber whose squareroot is to be found.
+ * @: number whose squareroot is to be found.
  * Return: squareroot.
  */
 int _sqrt_recursion(int n)
 {
 	if (n < 0)
 	{
-		return (1);
+		return (-1);
 	}
 	return (_sqrt(n, 1));
 }
